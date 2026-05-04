@@ -2,6 +2,100 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+398 **A BIM-based framework for enhancing office accommodation delivery in public–private partnerships: a case study of the Gauteng province.** P Mashinini. Thesis 2026 University of Johannesburg.
+
+397 **Appréhender le paysage sonore par la géomatique : vers une représentation sensible et située du territoire (étude de cas dans la commune de Carouge). Understanding the soundscape through geomatics: towards a sensitive and situated representation of the territory (case study in the commune of Carouge)**
+ N Cespedes. Thesis 2026. Université de Genevè.
+
+396 Rodrigo Olmedo Yúdico Becerril. **Développement de stratégies de production écrite en FLE à travers un dispositif hybride. Linguistique.** Université Grenoble Alpes [2020-..], 2025. Français. 
+
+395 Arifin, Misbahul, Muhammad Ilzamul Khoir, and Achmad Zahri N.A. 2026. **“Centralized Adaptive Governance for Curriculum Development in Islamic Education under Society 5.0”.** Journal of Educational Research and Practice 4 (1). Tulungagung, Indonesia:111-27. <https://doi.org/10.70376/jerp.v4i1.401>
+
+394 Lee-Remond, S., Alavi, S., Ballouk, H., & Notari, M. (2026). **Designing together: student co-design of educational games in a complex interdisciplinary course.** CoDesign, 1–25. <https://doi.org/10.1080/15710882.2026.2655696>
+
+393 Olavesen ES, Helseth S, Haga SM, Sundrehagen T, Drozd F (2026) **Midwives' and Public Health Nurses' Experiences of Implementing a Guided Version of a Digital Intervention, Mamma Mia, in Maternity and Child Health Care Services: A Reflexive Thematic Analysis.** PLOS Digit Health 5(4): e0001348. <https://doi.org/10.1371/journal.pdig.0001348>
+
+392 **Retention of Rural/Small-Town Band Directors in Georgia.** Timothy M. Warren, Liberty University 2026. Thesis. 
+
+391 Artificial Intelligence in Creative Industries [Book Chapter] **From Digital Craft to Automation. Exploring the Trade-Off Between Traditional Digital Skills and Automation in the Creative Arts.** Antonio Daniele. Edition 1st 2026.
+
+390 Sitering: Ovesen, E. (2026). Striving for interactivity. I L. Skregelid, C. B. Myrvold & R. Tronstad (Red.), Den kulturelle skolesekken: Forskning møter praksis (Kap. 6, s. 159–184). Cappelen Damm Akademisk. ch6
+
+389 Shen M, Xue S, Liu F and Lang J (2026) **Role reconstruction among double-qualified nursing educators in the generative AI era: a qualitative study.** Front. Med. 13:1776845. doi: 10.3389/fmed.2026.1776845
+
+388 Chapter 12: **Reimagining African Futures Through Higher Education Policy: Evidence from South Africa.** Owen et al. Transforming Africa Book Chapter 2026. <https://doi.org/10.1108/978-1-83662-790-620261012>
+
+387 **Framställning av lägesenergi i gymnasiets Fysik 1: En deduktiv och induktiv innehållsanalys i läroböcker (The Representation of Gravitational Potential Energy in Upper Secondary Physics 1 : A Deductive and Inductive Content Analysis of Physics Textbooks).** L Halilovic. Thesis 2026. Linnaeus University.
+
+386 **Mezi supermarketem a zahradou: potravinová odolnost českých domácností. Šimon Jelinek (Between the supermarket and the garden: food resilience of Czech households)**. Thesis 2026 Mararykova Univerzita. 
+
+385 **GLOBAL HEALTH GOVERNANCE AND THE PERSISTENCE OF THE CIVILIZING MISSION: PROBLEMATIZING WHO FRAMEWORKS OF HEALTH EQUITY CREATION.** S Keenan. Thesis 2025. McGill University. 
+
+384 **From Grades to Greatness: Unveiling High School Grading Shifts Through Task Force Insights.** A Speidel. 2026. Thesis. California Lutheran University. 
+
+383 **Untangling Threads of Care: Exploring Family Practices that Support Elementary French Immersion Students in Mathematics in New Brunswick.** J Gerbrandt. Thesis. 2026. University of New Brunswick.
+
+382 Giguère, Maxe F., de Moissac, Danielle et Gueye, Ndeye Rokhaya, (2026). **Vers des soins pour toustes : l’accessibilité des soins pour les patient·e·s francoqueers au Manitoba (Towards care for all: accessibility of care for Francoqueer patients in Manitoba).** Collectif LGBTQ* du Manitoba. 
+
+381 **Vertriebsstärkung durch interne Reorganisation in Kleinst- und Kleinunternehmen (Strengthening sales through internal reorganization in micro and small companies).** Michael GÜHNE, Ulrike PIETRZYK. GfA, Sankt Augustin (Hrsg.): Conference Abstract. Frühjahrskongress 2026, Kassel
+
+380 **Understanding Fairness and Favouritism in AI-Based HR Appraisals: A Mixed-Methods Analysis of Employees in the Indian IT Sector.** E Yajikumar, G Sowmya. Preprint. 2026. Vellore Institute of Technology University. <https://doi.org/10.21203/rs.3.rs-8847797/v1>
+
+379 Parveen, K., Obidallah, W.J., Phuc, T.Q.B. et al. **Exploring key predictors of ChatGPT adoption in higher education: insights from UTAUT3 and ARCS model.** BMC Psychol 14, 397 (2026). <https://doi.org/10.1186/s40359-026-04042-2>
+
+378 **The TOBE Playbook: Identifying Barriers and Drivers of Digital Success in the Service Sector.** Csiki et al. Central European Business Review, 2026.  DOI: 10.18267/j.cebr.410
+
+377 Andrea Furnaro, Gregory Trencher. **Acknowledging while doubling down: Japan's responses to uncertainty in the hydrogen sector.** Technological Forecasting and Social Change. Volume 227. 2026. <https://doi.org/10.1016/j.techfore.2026.124654>
+
+376 **Antifeministische Kräfte zur Absicherung patriarchaler Verhältnisse. Struktureller und bewegungsförmiger Antifeminismus in Westdeutschland zwischen 1945 und 1990.** Blum, Rebekka. 2026 Budrich Academic Press. <https://library.oapen.org/handle/20.500.12657/112125>
+
+375 Zaki, K., Alotaibi, R., & Raslan, A. (2026). **From Desert Lands to Green Avenues: Understanding Sustainability Actions in the Saudi Arabian Tourism and Hospitality Sector Through Expert Perspectives.** Sustainability, 18(6), 2982. <https://doi.org/10.3390/su18062982>
+
+374 Kabir M.S. **Traditional and digital networking strategies and its impact on business sustainability for foreign entrepreneurs in Poland**. J Innov Entrep (2026). <https://doi.org/10.1186/ s13731-026-00630-z>
+
+373 **DESIGNING FOR USABILITY: AN AI-HUMAN HYBRID MENTAL HEALTH COUNSELING WEB APP FOR STUDENTS.** ELGA THERESIA, TANTY OKTAVIA. Journal of Theoretical and Applied Information Technology 15th March 2026. Vol.104. No.5 
+
+372 Hess, L., & Häusermann, S. (2026). **The quest for exposure: How pro-Palestine activists navigate algorithmic visibility and content moderation on TikTok.** Platforms & Society, 3. Análisis cualitativo del impacto de la violencia institucional en las profesionales que intervienen en las violencias machistas, desde una perspectiva de derechos. Berrocal et al. Report 2025.
+
+371 **Umsetzung von Keyline Design auf Schweizer Landwirtschaftsbetrieben: Praktische Erfahrungen und Entwicklung eines Leitfadens.** S Waldner. Thesis. 2026. ETH Zürich  https://doi.org/10.3929/ethz-c-000796137
+
+370 García-Frapolli, E., & Asara, V. (2026). **Navigating touristification through social entrepreneurship: Community-based tourism in the Yucatan Peninsula, Mexico.** Tourist Studies, 0(0).
+
+369 Yang D, Balai E, Jama GM, et al. **Paediatric septoplasty in the UK: a national survey of current attitudes and practice.** The Journal of Laryngology & Otology. Published online 2026:1-8. doi:10.1017/S0022215126104344
+
+368 Shen, M., Shi, Z., Shen, Y. et al. **Rehabilitation challenges and enablers for exercise in post-liver transplant patients with metabolic syndrome: a qualitative study.** BMC Nurs (2026). <https://doi.org/10.1186/s12912-026-04492-4>
+
+367 **From Ancient Tactics to Cyber Strategies: Adapting the Thirty-Six Stratagems for Modern Cyber Warfare.** Z Tayor Thesis 2026 CAPITOL TECHNOLOGY UNIVERSITY
+
+366 Marqueses, D., Eder, C. **Implementierung des Delirscreenings auf einer Intensivstation: Evaluation auf Basis der Normalization Process Theory.** HBScience (2026). <https://doi.org/10.1007/s16024-026-00441-y>
+
+365 Escaño, C., Peterson Ferreira de Lima, S & Feltrero, R. (2026). **Educación Artística Inclusiva e Inteligencia Artificial: análisis discursivo comparativo entre Ana Mae Barbosa y su avatar digital.** Arte, Individuo y Sociedad, 38(3). Publicación en línea, 1-22.<https://dx.doi.org/10.5209/aris.105507>
+
+364 MICHÁLKOVÁ, Gabriela. **Dobrovolné digitální vyloučení a jeho vliv na každodenní život generace Z (Voluntary digital exclusion and its impact on everyday life of generation Z).** Diplomová práce, vedoucí Jirků, Jan. Praha: Univerzita Karlova, Fakulta sociálních věd, Katedra žurnalistiky, 2026. 
+
+363 **Analyses of Employee Retention and Best Practices Strategies.** Bezerra, Alessandro (2026) Thesis Laurea University. <https://www.theseus.fi/handle/10024/911490>
+
+362 **“Just Swapping One Drug Out for Another”: Beliefs and Attitudes Influencing Support for Medication-Assisted Treatment in Rural Communities.**(2026). Georgetown Scientific Research Journal, 6(1), 22-49. <https://doi.org/10.48091/0np39e98>
+
+361 Barszczak, Rafal Sławomir (2025) **Precarity, Aspiration, Cultural and Ideological Capture: A Phenomenological Study of Generation Rent in Ireland’s Financialised Housing System.** Masters thesis, Dublin, National College of Ireland.
+
+360 Kavousi,E.,Ewing,M.,&Brunetto,Y. (2026). **Neuroleadership research in HRM: A systematic review.** Journal of Management & Organization, 1–23. <https://doi.org/10.1017/jmo.2026.10086>
+
+359 Jacquellyn Nambi Ssanyu, Shannon McMorrow, Leif Eriksson, Joan Nakayaga Kalyango, Mats Målqvist, Peter Waiswa,
+**Women's experiences negotiating barriers and asserting agency on family planning in urban east-central Uganda: A photovoice study**. SSM - Qualitative Research in Health, Volume 9, 2026, <https://doi.org/10.1016/j.ssmqr.2026.100736>
+
+358 **Integrating a Digital Medication Dispenser into Community Pharmacy Practice: Insights from Portuguese Pharmacists**. Martins et al. 10th PCNE Working Symposium, 17 Feb 2026, Innsbruck, Conference Abstract.
+
+357 Seeley JL, Curtis Maillet DG, Balcom S, Durepos P. **Navigating Privacy in Health Data Sharing: A Patient-Centric Approach to Health Information Exchange.** Healthcare Management Forum. 2025;0(0). doi:10.1177/08404704251371617
+
+356 Anusree K, Thomas S C (February 17, 2026) **Gendered Dynamics of Contraceptive Decision-Making Among Currently Married Couples in Kerala, India: Insights From Qualitative Interviews.** Cureus 18(2): e103796. DOI 10.7759/cureus.103796
+
+355 Höglund, J. (2026). **Neocolonial Belt or Road to Prosperity? : A study on the framing of the Belt and Road Initiative** (Dissertation). <https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-576934>
+
+354 Banyani, M.A., Alananga, S., Masika, B.N. et al. **Tenant satisfaction with property management practices in Tanzania: selected cases in Dar es Salaam, Dodoma, and Arusha.** J Hous and the Built Environ (2026). <https://doi.org/10.1007/s10901-025-10270-6>
+
+353 Karousatou, N., & Brailas, A. (2026). **APPRECIATIVE QUALITATIVE INQUIRY AS A RESEARCH METHOD FOR EMPOWERING EDUCATORS: AN EXPLORATORY STUDY**. New Trends in Qualitative Research, 22(1), e1323. <https://doi.org/10.36367/ntqr.22.1.2026.e1323>
+
 352 BRASIL. Ministério da Justiça e Segurança Pública. Secretaria Nacional de Direitos Digitais. **Mecanismos de aferição de idade. Análise das Contribuições à Consulta Pública e Subsídios para Regulamentação da Lei (Age verification mechanisms. Analysis of contributions to the public consultation and input for the regulation of the law)** nº 15.211/2025. Brasília: MJSP, janeiro de 2026. <https://www.gov.br/mj/pt-br/assuntos/noticias/relatorio-sedigi-consulta-de-afericao-de-idade.pdf>
 
 351 Higgins K, Thompson AS, Sari NH, Collins O, Frewer LJ (2026;), "Exploring healthy and sustainable food choice in the Roma community". British Food Journal, Vol. ahead-of-print No. ahead-of-print. <https://doi.org/10.1108/BFJ-04-2025-0441>

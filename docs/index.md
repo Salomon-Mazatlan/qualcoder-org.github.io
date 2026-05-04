@@ -8,7 +8,7 @@ QualCoder includes a set of AI-assisted features that utilise Large Language Mod
 
 QualCoder is designed to be used as client-based software to be used by one person at a time. A second coder can use the same project on the same computer, or the project folder can be transferred to the second coder's computer. QualCoder is not designed to be multi-accessed at the same instance in time.
 
-The most current QualCoder software is available from <https://github.com/ccbogel/QualCoder>. Software releases are available from: <https://github.com/ccbogel/QualCoder/releases> These contain source code and executables. The executables are an easy way to run QualCoder, double click to run, just be aware that it can take up to 20 seconds to open. The minimum recommended screen size is 1024 x 600 pixels.
+The most current QualCoder software is available from <https://github.com/ccbogel/QualCoder>. Software releases are available from: <https://github.com/ccbogel/QualCoder/releases> These contain source code and executables. The executables are an easy way to run QualCoder, double click to run, just be aware that it can take up to 20 seconds to open.
 
 ## Why use QualCoder?
 
@@ -32,6 +32,20 @@ The most current QualCoder software is available from <https://github.com/ccboge
 
 Note: There is an ongoing problem with audio/video coding on Linux Fedora -- the software crashes.
 
+## Current release
+
+The [latest release of QualCoder (3.8.2) available on GitHub](https://github.com/ccbogel/QualCoder/releases/latest).
+
+The exectuable binaries:
+
+[QualCoder_3.8.2 Windows 11 Installer](https://github.com/ccbogel/QualCoder/releases/download/3.8.2/QualCoder_3_8_2_Win_setup.exe)
+
+[QualCoder_3.8.2 Windows 11 Portable (Entire software in one file, slower to start)](https://github.com/ccbogel/QualCoder/releases/download/3.8.2/QualCoder_3_8_2_Win_Portable.exe)
+
+[QualCoder_3.8.2 macOS arm64](https://github.com/ccbogel/QualCoder/releases/download/3.8.2/QualCoder_3_8_2_macOs_arm64.dmg)
+
+[QualCoder_3.8.2_Ubuntu](https://github.com/ccbogel/QualCoder/releases/download/3.8.2/QualCoder_3_8_2_ubuntu)
+
 ## Leave a review
 
 If you like QualCoder and found it useful for your work. Please leave a review on these sites:
@@ -40,21 +54,11 @@ If you like QualCoder and found it useful for your work. Please leave a review o
 
 <https://alternativeto.net/software/qualcoder>
 
-Many studies have been completed with QualCoder <https://qualcoder.wordpress.com/studies-using-qualcoder/>
-
 If you like QualCoder a lot, or have developed a novel use for it, please write an article about QualCoder.
 
-## Current binary releases
-
-- [Mac - Apple Silicon](https://github.com/ccbogel/QualCoder/releases/download/3.7/QualCoder.3.7.Mac.Arm64.dmg)
-- [Mac - (x86)](https://github.com/ccbogel/QualCoder/releases/download/3.7/QualCoder.3.7.Mac.X86.dmg)
-- [Windows 11](https://github.com/ccbogel/QualCoder/releases/download/3.7/QualCoder.3.7.Win.Setup.exe)
-- [Windows 11 - Portable Version](https://github.com/ccbogel/QualCoder/releases/download/3.7/QualCoder.3.7.Win.Portable.zip)
-
-
-## Testing QualCoder
+## Donations
 
 It has taken many, many hours of work to create this software that is provided free to use. If you appreciate QualCoder please: [Buy me a coffee](https://www.buymeacoffee.com/ccbogelB)
-QualCoder is written in python 3 using Qt6 for the graphical interface. QualCoder has been used on Windows 11, macOS and various recent Linux distros: Ubuntu, Lubuntu, ZorinOS, Fedora. Testing is performed on Windows 11.
+QualCoder is written in python using Qt6 for the graphical interface. QualCoder has been used on Windows 11, macOS and various Linux distros: Ubuntu, Lubuntu, ZorinOS, Arch, Fedora.
 
 
