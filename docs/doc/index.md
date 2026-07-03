@@ -1,10 +1,8 @@
-# QualCoder Documentation
+<div class="grid cards" markdown>
 
-## Official documentation
-
-- [Documentation in english](/en)
-
-## Communauty translation
-
-- [Documentation en français](fr)
+- [Documentation in English](en)
+- [Dokumentation auf Deutsch](de)
 - [Documentación en español](es)
+- [Documentation en français](fr)
+
+</div>

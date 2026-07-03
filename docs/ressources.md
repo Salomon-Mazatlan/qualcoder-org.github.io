@@ -1,15 +1,18 @@
 # Resources
 ## Resources in English
 
+### QualCoder 3.8
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dF-7kxr_G9c?si=VVRj6UYCRpcxK2bu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This also applies to QualCoder 3.8.2 the latest and recommended version in the 3.8 series.
+
 ### QualCoder 3.7
 
-I finally managed to get time to make a video showing the main functions of the 3.7 release.
-
-I hope to add a second video a bit later showing additional features with this version.
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/TCLCT893JcM" title="QualCoder 3.7 part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I added another video using QualCoder 3.7. In this video I do some coding with the artificial intelligence enabled. I also show some hidden menu options in Code Text (and this uncovered an error I have to fix later also). I also look at the ode relations report.
+I added another video using QualCoder 3.7. In this video I do some coding with the artificial intelligence enabled. I also show some hidden menu options in Code Text (and this uncovered an error I have to fix later also). I also look at the Code Relations report.
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/-HMtwHE4G5g" title="QualCoder 3.7 part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -59,18 +62,6 @@ This presentation by Prof. Erin Owens from the Sam Houston State University show
 <iframe width="500" height="281" src="https://www.youtube.com/embed/ZggbnBWExtE" title="Free Tools for Qualitative Data Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Ressources en français
-
-Thank you to Véronique for making a QualCoder installation video in French.
-
-This may help French speakers with the installation of QualCoder. More videos are to come.
-
-<iframe width="500" height="281" src="https://www.youtube.com/embed/iTnr5vKxdys" title="Installation de Qualcoder sur PC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Prof. Veronique has created another video in French discussing creating a new project, attributes, file loading and beginning the coding development. Thank you again!
-
-Nouveau projet sur Qualcoder : attributs, importation de documents, arbre hiérarchique.
-
-<iframe width="500" height="281" src="https://www.youtube.com/embed/mSUYaLBfRrw" title="Nouveau projet sur Qualcoder : attributs, importation de documents, arbre hiérarchique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Pour les francophones, un blog sur l’utilisation de Qualcoder 3.5, (For French speakers a blog about using Qualcoder). https://libres.hypotheses.org/341
 
@@ -127,13 +118,13 @@ https://libguides.ub.uu.se/databearbetning/kvalitativ/analys
 
 Thank you to Malin.
 
-## Ressources in japanese
+## Resources in Japanese
 
 Shin Kyogoku, Ph.D. Professor at Kibi International University has written a comparison between QualCoder and Taguette.
 
 https://www.thriver.one/free-qualitative-coding
 
-## Resources in farsi
+## Resources in Farsi
 There is a discussion of QualCoder in Persian here: در اینجا بحث QualCoder به زبان فارسی وجود دارد:
 
  https://yabesh.ir/4444873/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%DA%A9%D9%88%D8%A7%D9%84-%DA%A9%D8%AF%D8%B1qualcoder

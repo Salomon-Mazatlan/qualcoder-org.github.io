@@ -2,6 +2,118 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+453 Mary Chun, Ngai Y., Aaron Simpson, Nikos Ntoumanis, Claire Willis, Marina Milyavskaya, and Timothy Budden. 2026. **Exploring Goal Flexibility and Mental Health in University Students: A Qualitative Approach.** Stress and Health: e70195. <https://doi.org/10.1002/smi.70195>
+
+452 Lien Imbrechts, João C. Azevedo, Rebekka Dossche, Matthias Bürgi, Peter H. Verburg. **Similar patterns, different processes: Persistence and change in path-dependent land systems.** Land Use Policy Volume 169, 2026, <https://doi.org/10.1016/j.landusepol.2026.108152>
+
+451 **Minecraft as a Scaffold for Diversity and Equity in the Lower Secondary Classroom.** Kieran R Bailey. Thesis 2026
+Murdoch University. DOI: https://doi.org/10.60867/00000090
+
+450 Lampman, Douglas W. **Addressing Mental Health in College Athletics: Developing a MindfulnessCentered Curricular Intervention for Student-Athletes and Coaches.** (2026). Thesis. <https://scholarsarchive.library.albany.edu/etd/426>
+
+449 **LOCKING DOWN RELIGION: THE POLITICS OF EVANGELICAL CHURCHES’ RESPONSES TO THE COVID-19 LOCKDOWN IN THE PHILIPPINES (2020-2023).** Erron Medina. Thesis University of the Philippines 2026.
+
+448 Ahmed, F. (2026). **Innovation Ecosystem around Additive Manufacturing (AM) in Swedish Healthcare : A Technology Innovation Systems (TIS) Approach**. (Dissertation). <https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-588581>
+
+447 **Entre el pueblo y el Estado: los procesos de enmarcamiento del discurso de Andrés Manuel López Obrador (Between the people and the State: the framing processes of Andrés Manuel López Obrador's speech).** Jorge Mejía Valenzuela Thesis 2026. FLACSO MEXICO.<https://flacso.repositorioinstitucional.mx/jspui/handle/1026/566>
+
+446 **Terapija i analiza ciljeva terapijskog rada:prikaz slučaja učenika sa specifičnim poremećajem učenja (Therapy and analysis of the goals of therapeutic work: presentation of the case of a student with a specific learning disorder).** Vulić, Nikolina. 2026 Diplomski SVEUČILIŠTE U RIJECI. <https://urn.nsk.hr/urn:nbn:hr:231:683582>
+
+445 **Seed and Shield: A Qualitative Investigation of Black Middle-Class Families and Their Literacy Practices.** Taylor Toniese McElwain. Dissertation 2026  Virginia Polytechnic Institute <https://hdl.handle.net/10919/143353>
+
+444 **Redescobrir a Serra da Estrela : um itinerário sustentável contado através de lendas (Rediscovering Serra da Estrela: a sustainable itinerary told through legends).** Ana Marta Figueiredo de Castro,  2026 Master thesis. <http://hdl.handle.net/10400.5/118303>
+
+443 Schäfer, A. B. (2026). **Sound Awareness Using Austrian Sign Language for Deaf and Hard of Hearing Individuals** [Diploma Thesis, Technische Universität Wien]. reposiTUm. <https://doi.org/10.34726/hss.2026.132705>
+
+442 Berlowitz I., Timm E., Ertl J. et al. **Potentials and challenges of an integrative medicine protocol in intensive care: the perspective of
+intensive care nurses.** BMC Complement Med Ther (2026). <https://doi.org/10.1186/s12906-026-05423-1>
+
+441 **Tekoäly Ja Automaatio Asiakaspalvelussa - Asiakaspalvelijoiden Kokemuksia (Artificial intelligence and automation in customer service - Experiences of customer service representatives).** Kesti, Atte. Thesis 2026 JYVÄSKYLÄN YLIOPISTO/JYVÄSKYLÄ UNIVERSITY. <https://urn.fi/URN:NBN:fi:jyu-202604223615>
+
+440 Pravalprukskul, P., C. Friis, and T. B. Bruun. 2026. **The Construction of an Environmental Villain: A Discourse Analysis of Upland Maize Farming in Thailand.** Asia Pacific Viewpoint1–15. <https://doi.org/10.1111/apv.70055>
+
+439 Gümüş S, Belova X, Lu J. **Improving Mental Health and Well-Being in Schools: Exploring School Leaders’ Roles and Influence.** Education Sciences. 2026; 16(3):373. <https://doi.org/10.3390/educsci16030373>
+
+438 **Assessing the Just Promise of REDD+: Stakeholder Perspectives from the Bananal Island Project.** Guillaume Daous. Dissertation 2026. Universidade Federal do Rio de Janeiro
+
+437 **Adaptação do Programa Mentis Plus+ para Pessoas Migrantes e refugiadas: resultados prelimimares de Focus Groups.** Sandra Alpuim. III ENCONTRO INTERNACIONAL DE LITERACIA E SAÚDE MENTAL POSITIVA. Conference 2025
+
+436 **Design Considerations for AI-Based Creativity Support Tools in Tabletop Role-Playing Games.** Hanna Dodd. Thesis. 2026. University of Waterloo.
+
+435 Proske, U. and Staab, M.: **Hello world! An interdisciplinary climate modelling course.** Geosci. Commun., 9, 239–259, <https://doi.org/10.5194/gc-9-239-2026> 2026
+
+434 Tejeda Martínez, A., & de la Cruz, G. (2026). **Práctica inclusiva docente en bachillerato: experiencias narrativas a través de la fotovoz (Inclusive teaching practice in high school: narrative experiences through photovoice).** Revista AJAYU, 24(1), 1–22. https://doi.org/10.35319/ajayu.241366
+
+433 **Operational Enablers and Barriers in Hospital Incident Command: Insights from a Single-Center Table-Top Exercise at a Tertiary Care University Hospital—A Qualitative Phenomenological Study.** Markus Ries, Maik von der Forst, Hanne Schäfer, Kirsten Bikowski, Klaas Franzen, Paul Geoerg, Fabian Weykamp, Erik Popp, Janna Küllenberg. [Preprint] doi: https://doi.org/10.64898/2026.05.13.26353139
+
+432 **A sustentabilidade sob o olhar de profissionais da contabilidade: racionalidades coexistentes em um campo em transição (Sustainability from the perspective of accounting professionals: coexisting rationalities in a field in transition).** Da Silva et al. USP International Conference on Accounting. 2026. 
+
+431 Cabello, Violeta and Barandiaran, Xabier and Gonzalez-Mon, Blanca and Zaragoza, Juan Manuel and Siqueiros, Jesús Mario and Brugnach, Marcela (2026) **Socialecological affective arrangements: diving with a small sea of many seas.** [Preprint] <https://philsci-archive.pitt.edu/29264/>
+
+430 **Johto kyberresilienssin rakentajana : rooli ja onnistumisen edellytykset kyberharjoittelussa (Management as a builder of cyber resilience: role and prerequisites for success in cyber training).** Honkala, Kristian (2026) Thesis Jyväskylä University of Applied Sciences
+
+429 Nazer, Ben and Carver, Mark, **Learning from Student Perspectives on Pre-sessional Writing from Sources: A Reflexive Thematic Analysis.** Available at SSRN: https://ssrn.com/abstract=6922746 or http://dx.doi.org/10.2139/ssrn.6922746
+
+428 **Why Does This Job Exist?: An Exploratory Study of the Perceptions of Role Alignment to Organizational Purpose** Bright, Adam.   Robert Morris University ProQuest Dissertations & Theses,  2026. 32735070.
+
+427 Nguyen MP, Do HPN, Vuong NA, van Gils S. **Disability employment as a human resource with shared value: A multi-stakeholder systematic review (2000–2025).** Journal of Management & Organization. Published online 2026:1-34. doi:10.1017/jmo.2026.10100
+
+426 Hryvko, Antonina and Herzing, Jessica M.E. and Erzinger, Andrea B., **A COMPREHENSIVE MIXED-METHODS FRAMEWORK FOR ASSESSING BELIEFS-PRACTICE ALIGNMENTS IN THE IMPLEMENTATION OF CROSS-CUTTING SKILLS CONCEPTION IN SCHOOLS.** <http://dx.doi.org/10.2139/ssrn.6827452>
+
+425 Dela Luna KLG, Sy ADR, Rama-Sabandal RLCM, Jacinto CBK, Malimban RC, Sales BEG, Marollano RA, Marin AC. **A Qualitative Program Evaluation Study on the Perceived Impact of Health and Nutrition Programs among Beneficiaries of a Civil Society Organization in the Philippines.** Acta Med Philipp. 2026 Apr 30;60(8):23-36. doi: 10.47895/amp.vi0.12745. PMID: 42256103
+
+424 Baquet E, Tarteret P, Deschamps A, Filali A, Foley RA, D'Acremont V. **Perceptions and Needs of Primary Healthcare Providers Regarding Electricity Shortages and Blackouts: A Qualitative Study Using a Realistic Narrative Approach.** Int J Public Health. 2026 Apr 20;71:1609319. doi: 10.3389/ijph.2026.1609319.
+
+423 K. Q. Nguyen, Q. N. Vo, and L. T. T. To, **An Exploratory Comparison of the THPT English Exam and an IELTS Benchmark: A Question of Equivalence.** TTU Journal of Science, vol. 1, no. 2, pp. 71–77, Jun. 2026.
+
+422 Butterfield, K. L., Galt, R. E., & Wilson, H. (2026). **Improving USDA’s public price and volume data for an equitable organic food value chain.** Journal of Agriculture, Food Systems, and Community Development. Advance online publication. <https://doi.org/10.5304/jafscd.2026.153.013>
+
+421 **Interpreting Sustainability Information in Industrial Sourcing Decisions. A Qualitative Case Study.**    Periyasamy & Konakala. Thesis 2026 Uppsala Universitet.
+
+420 **Customizing Conversation: Participatory Design of an LMM-Powered Digital Food List with Older Adults.** N Doxander 2026 Thesis Halmstad University.
+
+419 Lepičnik Vodopivec, J., & Pugelj, Špela. (2026). **Digitalne kompetence učiteljev: osebni, profesionalni in kontekstualni dejavniki. (Digital competences of teachers: personal, professional and contextual factors)** Pedagoška Obzorja, 41(1), 147–160. https://doi.org/10.55707/ds-po.v41i1.221
+
+418 **The Supreme Court and Climate Law: A Qualitative Analysis.** Tanner Blackington. Thesis 2026. University of San Diego
+
+417 **Students’ Narratives of Biology : Exploring How Students’ Stories Shape Decisions to Continue Studying Biology in a Finnish University.** Ihiekonye, Raphael. Thesis Åbo Akademi University  2026.
+
+416 Pascal Haberkorn, Corinna Mack, and Manuel Giuliani. 2026. **Exploring the Potential of Dialogue-Based Robots to Motivate Social Connection in Older Adults.** In Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI Companion ’26), March 16–19, 2026, Edinburgh, Scotland, UK. ACM, New York, NY, USA, 5 pages. <https: //doi.org/10.1145/3776734.3794483>
+
+415 **Shared Experiences in Post-Rehabilitation COPD Care Management: A Qualitative Study From Patient and Care Manager Perspectives.** Espérance Moine, Mathis Brusseau, François Alexandre, Sophie Gendrault, Nelly Heraud. 05 May 2026 Health Expectations. <https://doi.org/10.1111/hex.70680>
+
+414 **Navigating the Educational Shift: An In-Depth Analysis of the Intersection of Male Enrollments and Program of Study.** K S Minnocci, Thesis. Fairfield University. 2026
+
+413 Wijesundarage, Muditha. **Empowering Globally Competent Professionals through Virtual Work-Integrated Learning.** University of Prince Edward Island, 2026, <https://islandscholar.ca/islandora/object/18413>
+
+412 Rana. (2026). **Trans pregnancies in India: decolonial, anti‑caste feminist frameworks and transformative horizons.** International Journal of Transgender Health, 1–18. https://doi.org/10.1080/26895269.2026.2658250
+
+411 Brähmer, Sören and Boettcher, Johanna and Iffland, Benjamin and Bertino, Martina and Driessen, Martin and Steuwe, Carolin, **Piloting a digital tool for self-monitoring in residential Dialectical Behavior Therapy for Borderline Personality Disorder: mixed-methods study.**  <http://dx.doi.org/10.2139/ssrn.6588986>
+
+410 **Framing circularity in urban redevelopment processes: Industrial heritage reuse in Varvsstaden, Malmö.** Lord, Joakim. Thesis 2026 KTH Royal Institute of Technology.
+
+409 **Al-Aqsa Flood: Misstep or Grand Strategy? The Geopolitics of Non-state Actors in a Globally Unstable Paradigm.** Hani Anouti and Adrian López Fleming. Volume 13, Issue 2. Contemporary Review of the Middle East. <https://doi.org/10.1177/23477989251405562>
+
+408 Aikaterina Manoli, Janet V.T. Pauketat, Ali Ladak, Hayoun Noh, Angel Hsing-Chi Hwang, and Jacy Reese Anthis. 2026. **Digital Companionship: Overlapping Uses of AI Companions and AI Assistants.** In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). Association for Computing Machinery, New York, NY, USA, Article 372, 1–25. <https://doi.org/10.1145/3772318.3791331>
+
+407 **ANALYSIS OF VIETNAM AS PRODUCTION AND LOGISTICS HUB FOR THE GERMAN PREMIUM CAR MANUFACATURER AUDI AG.** Mads Bornstein. Thesis Universidade Nova de Lisboa 2026.
+
+406 **Worry, efficacy and complexity: how the public thinks about the issue salience of climate change.** Sam Crawley. Victoria University of Wellington. 2026. Preprint. DOI: 10.31235/osf.io/gr64x_v1
+
+405 Nasiri, Bibi Zainab. 2026. **Education Policy As a Recursive System of Gendered Power: Evidence from Post-2021 Educational Restrictions in Afghanistan.** Journal of Educational Research and Practice 4 (1). Tulungagung, Indonesia:128-43. <https://doi.org/10.70376/jerp.v4i1.436>
+
+404 Ge, A., Abou-Haiba, N., Ali, H. et al. **A Street Medicine Elective in Fostering Compassion and Professional Identity Development in Medical Students: A Qualitative Study.** J GEN INTERN MED (2026). https://doi.org/10.1007/s11606-026-10476-6
+
+403 Johnie Rose et al. **Understanding the Needs and Challenges of Cancer Registry Stakeholders.** JCO Clin Cancer Inform 10, e2500168(2026). DOI:10.1200/CCI-25-00168
+
+402 Lepičnik Vodopivec, J., & Pugelj, Špela. (2026). **Digitalne kompetence učiteljev: osebni, profesionalni in kontekstualni dejavniki. (Digital competences of teachers: personal, professional and contextual factors)** Pedagoška Obzorja, 41(1), 147–160. <https://doi.org/10.55707/ds-po.v41i1.221>
+
+401 Boocan, Aldrin. 2026. **Modular Learning and Educational Inequality in Rural Philippine Secondary Education.** Journal of Educational Research and Practice 4 (1). Tulungagung, Indonesia:144-61. <https://doi.org/10.70376/jerp.v4i1.439>
+
+400 Lee-Remond, S., Alavi, S., Ballouk, H., & Notari, M. (2026). **Designing together: student co-design of educational games in a complex interdisciplinary course.** CoDesign, 1–25. <https://doi.org/10.1080/15710882.2026.2655696>
+
+399 Shen, M., Shi, Z., Shen, Y. et al. **Rehabilitation challenges and enablers for exercise in post-liver transplant patients with metabolic syndrome: a qualitative study.** BMC Nurs 25, 301 (2026). <https://doi.org/10.1186/s12912-026-04492-4>
+
 398 **A BIM-based framework for enhancing office accommodation delivery in public–private partnerships: a case study of the Gauteng province.** P Mashinini. Thesis 2026 University of Johannesburg.
 
 397 **Appréhender le paysage sonore par la géomatique : vers une représentation sensible et située du territoire (étude de cas dans la commune de Carouge). Understanding the soundscape through geomatics: towards a sensitive and situated representation of the territory (case study in the commune of Carouge)**
@@ -19,7 +131,7 @@ These are records that I have found on the internet, or that authors have inform
 
 391 Artificial Intelligence in Creative Industries [Book Chapter] **From Digital Craft to Automation. Exploring the Trade-Off Between Traditional Digital Skills and Automation in the Creative Arts.** Antonio Daniele. Edition 1st 2026.
 
-390 Sitering: Ovesen, E. (2026). Striving for interactivity. I L. Skregelid, C. B. Myrvold & R. Tronstad (Red.), Den kulturelle skolesekken: Forskning møter praksis (Kap. 6, s. 159–184). Cappelen Damm Akademisk. ch6
+390 Sitering: Ovesen, E. (2026). **Striving for interactivity.** I L. Skregelid, C. B. Myrvold & R. Tronstad (Red.), Den kulturelle skolesekken: Forskning møter praksis (Kap. 6, s. 159–184). Cappelen Damm Akademisk. ch6
 
 389 Shen M, Xue S, Liu F and Lang J (2026) **Role reconstruction among double-qualified nursing educators in the generative AI era: a qualitative study.** Front. Med. 13:1776845. doi: 10.3389/fmed.2026.1776845
 
