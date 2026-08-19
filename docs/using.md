@@ -2,6 +2,24 @@
 
 These are records that I have found on the internet, or that authors have informed me about. Studies, reports, abstracts, conference proceeding, datasets are listed from newest to oldest :
 
+462 E. García-Cabrera, L. M. Saavedra, F. Luna-Perejón, J. L. S. Ramos and L. Miró-Amarante, **Towards Ethical Video Game Design: Eliciting Requirements Through a Multidisciplinary Delphi Study.** 2026 International Conference on Computer, Information and Telecommunication Systems (CITS), Piraeus-Athens, Greece, 2026, pp. 1-6, <https://doi.org/10.1109/CITS70307.2026.11637206>
+
+461 **Collective Action Frames: A Bibliometric and Thematic Analysis.** Félix Wilmer Paguay Chávez. conference proceedings. CIVINEDU 2026. <https://doi.org/10.58909/adc26543777>
+
+460 Mehlhorn/Schäfer/Bruischütz/Hambsch (2026), **Evaluation des Förderprogramms INVEST – Zuschuss für Wagniskapital im Auftrag des Bundesministeriums für Wirtschaft und Energie (BMWE)**, Betriebswirtschaftliches Forschungszentrum für Fragen der mittelständischen Wirtschaft e. V., Bayreuth. 
+
+459 Jemine, Grégory, and Fanny Roche. 2026. **The Mirages of Strategic Workforce Planning: A Critical Inquiry Into an Elusive HR Process.** Human Resource Management Journal: 1–16. <https://doi.org/10.1111/1748-8583.70060>
+
+458 Erol, İ. E. (2026). **İletişim Araştırmalarında Dijital Simülasyon Yaklaşımları: Sistematik Bir İnceleme (DIGITAL SIMULATION APPROACHES IN COMMUNICATION STUDIES: A SYSTEMATIC REVIEW).** The Turkish Online Journal of Design Art and Communication, 16 (3), 1533-1552. https://doi.org/10.7456/tojdac.1929130
+
+457 **Engaging Undergraduates in Ocean Science through Podcasts: Enhancing Connection, Belonging, and Career Awareness.** d'Alva Duchrow, Lucas; Capece, Lena R.; Wrobel, Alex ; Dornan, Natalie ; Raven, Morgan R.; Phillips, Alexandra Atlee The Ocean Sciences Meeting (OSM) 2026, held in Glasgow, Scotland, 22-27 February 2026, Session: Education, Public Engagement, and Arts / Coastal Community Science in the Undergraduate Classroom: Science That Matters to Students and Communities I Poster, Poster No. 007, id. ED24C-007.
+
+456 Agudelo García, J. D., Ávalos, I., Villalobos Soto, R., Carrera Gambetta, F., & (RLABM), R. L. d. B. M. (2026). **Gobernanza colaborativa en acción: Lecciones desde cuatro Bosques Modelo en América del Sur (Collaborative governance in action: Lessons from four Model Forests in South America).** CATIE - Centro Agronómico Tropical de Investigación y Enseñanza. <https://repositorio.catie.ac.cr/handle/11554/14283>
+
+455 **Desafíos pedagógicos en la educación superior para la atención a estudiantes con necesidades educativas específicas. (Pedagogical challenges in higher education regarding support for students with specific educational needs).** (2026). Revista Docencia Universitaria, 7(2), 239-253. <https://doi.org/10.46954/revistadusac.v7i2.181>
+
+454 Marcos Vinicius Cruz, Pragya Verma, and Grischa Liebel. 2026. **Experiences of Dyslexic Software Engineers - A Qualitative Study.** In Proceedings of the 19th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE'26). Association for Computing Machinery, New York, NY, USA, 155–165. <https://doi.org/10.1145/3794860.3794895>
+
 453 Mary Chun, Ngai Y., Aaron Simpson, Nikos Ntoumanis, Claire Willis, Marina Milyavskaya, and Timothy Budden. 2026. **Exploring Goal Flexibility and Mental Health in University Students: A Qualitative Approach.** Stress and Health: e70195. <https://doi.org/10.1002/smi.70195>
 
 452 Lien Imbrechts, João C. Azevedo, Rebekka Dossche, Matthias Bürgi, Peter H. Verburg. **Similar patterns, different processes: Persistence and change in path-dependent land systems.** Land Use Policy Volume 169, 2026, <https://doi.org/10.1016/j.landusepol.2026.108152>
